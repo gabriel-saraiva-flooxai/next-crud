@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "paths": {"@/*": ["./*"]}
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/_app.js", "src/pages/index.tsx", "src/pages/api/hello.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/_app.js", "src/pages/index.tsx", "src/pages/api/hello.js", "src/hooks/useTabelaOuForm.ts"],
   "exclude": ["node_modules"]
 }
