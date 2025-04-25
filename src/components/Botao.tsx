@@ -1,5 +1,5 @@
 interface BotaoProps {
-    cor?: 'green' | 'bue' | 'gray'
+    cor?: 'green' | 'blue' | 'gray'
     className?: string
     children: any
 }
